@@ -15,8 +15,10 @@ const {
   findworkspacefolderid,
   getIdpagedata,
 } = require("../controllers/workspace/workspace.controller");
+
 const { json } = require("sequelize");
 const { upload } = require("../middlewares/multer");
+
 router.post("/saveData", (req, res) => {
   const { data } = req.body;
   res.json({ message: "done" });
@@ -144,7 +146,7 @@ router.get("/workspaceContent", auth, async (req, res) => {
   res.json({ data });
 });
 
-router.post("/delworkspace", auth, async (req, res) => {
+router.delete("/delworkspace", auth, async (req, res) => {
   try {
     const {workspacename, foldername} = req.body;
     console.log(workspacename, foldername,'dfdfdf')
@@ -157,7 +159,7 @@ router.post("/delworkspace", auth, async (req, res) => {
     res.json({state : 403, message : error})
   }
 })
-router.post("/delworkspacepage", auth, async (req, res) => {
+router.delete("/delworkspacepage", auth, async (req, res) => {
   try {
     const {workspacename, foldername, filename} = req.body;
     console.log(workspacename, foldername, req.user.uid, 'sssss')
@@ -170,9 +172,9 @@ router.post("/delworkspacepage", auth, async (req, res) => {
   }
 })
 
-router.post("/getBlockIdcontent", auth, async (req, res) => {
+router.get("/getBlockIdcontent/:result_id", auth, async (req, res) => {
   console.log('1111111111111111')
-  const {result_id} = req.body;
+  const {result_id} = req.params;
   const data = await getIdpagedata(result_id)
   // console.log(result_id, '222222222222', data)
   res.json({data})
