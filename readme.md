@@ -44,11 +44,11 @@ Notionary는 워크스페이스 공간 제공해주고, 사용자들이 질문�
 
 ## 화면 구성 :
 <label>웤크스페이스 폴더 생성</label>
-<img src="./newbingfront/myapp/public/images/createworkspace-ezgif.com-speed.gif">
+<img src="./newbingfront/myapp/public/images/createworkspace-ezgif.com-speed.gif"><br><br>
 <label>페이지 생성</label>
-<img src="./newbingfront/myapp/public/images/createpage-ezgif.com-speed.gif">
+<img src="./newbingfront/myapp/public/images/createpage-ezgif.com-speed.gif"><br><br>
 <label>워크스페이스 기능</label>
-<img src="./newbingfront/myapp/public/images/functionsws.gif">
+<img src="./newbingfront/myapp/public/images/functionsws.gif"><br><br>
 <label>삭제 기능</label>
 <img src="./newbingfront/myapp/public/images/deletews-ezgif.com-speed.gif">
 
@@ -142,7 +142,7 @@ Notionary는 워크스페이스 공간 제공해주고, 사용자들이 질문�
 
 
 ## 테이블 구성
-<img src="./newbingfront/myapp/public/images/table.png" height="500px">
+<img src="./newbingfront/myapp/src/images/icons/Screenshot 2025-06-22 112552.png" height="500px">
 
 ### 프론트 폴더 구조
 ---
