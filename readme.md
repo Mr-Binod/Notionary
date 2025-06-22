@@ -2,8 +2,11 @@
 
 # Notionary
 
-<img src='./myapp/src/images/notionary.png' width="150px" >
+<img src='./newbingfront/myapp/src/images/notionary-logo.png' width="150px" >
 
+
+## 프로젝트 소개
+notionary 는 개인 워크스페이스를 사용할수 있고 사람들의 질문과 본인의 의견을 낼수 있는 소통 공간으로 개발하게 됬습니다. 여기에서는 우리가 워크스페이스를 정리하면서 카태고리별로 굼금한 글과 질문을 작성할수 있습니다. 글을 작성할때 본인의 워크스페이스를 공유하면서 굼금한 것을 물어볼수도 있습니다.
 
 # 목차
 - [프로젝트 소개](#프로젝트-소개)
@@ -15,9 +18,6 @@
 - [협업 도구](#협업-도구-communication)
 - [테이블 구성](#테이블-구성)
 
-
-## 프로젝트 소개
-notionary 는 개인 워크스페이스를 사용할수 있고 사람들의 질문과 본인의 의견을 낼수 있는 소통 공간으로 개발하게 됬습니다. 여기에서는 우리가 워크스페이스를 정리하면서 카태고리별로 굼금한 글과 질문을 작성할수 있습니다. 글을 작성할때 본인의 워크스페이스를 공유하면서 굼금한 것을 물어볼수도 있습니다.
 
 ---
 
@@ -42,7 +42,7 @@ notionary 는 개인 워크스페이스를 사용할수 있고 사람들의 질�
 
 
 ## 화면 구성 :
-<label>폴더 생성</label>
+<label>웤크스페이스 폴더 생성</label>
 <img src="./newbingfront/myapp/public/images/createworkspace-ezgif.com-speed.gif">
 <label>페이지 생성</label>
 <img src="./newbingfront/myapp/public/images/createpage-ezgif.com-speed.gif">
