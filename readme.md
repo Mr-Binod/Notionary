@@ -51,6 +51,9 @@ Notionary는 워크스페이스 공간 제공해주고, 사용자들이 질문�
 <img src="./newbingfront/myapp/public/images/functionsws.gif">
 <label>삭제 기능</label>
 <img src="./newbingfront/myapp/public/images/deletews-ezgif.com-speed.gif">
+
+
+
 ## 주요 기능: 
 
 ### 담당 : 워크스페이스 페이지
@@ -80,20 +83,62 @@ Notionary는 워크스페이스 공간 제공해주고, 사용자들이 질문�
 ## 기술 스택 
 ### FRONTEND
 
-<img src="./newbingfront/myapp/public/images/react.png" width="200px">
-<img src="./newbingfront/myapp/public/images/html-5_5968267.png" width="200px">
-<img src="./newbingfront/myapp/public/images/css.png" width="200px">
-<img src="./newbingfront/myapp/public/images/js_5968292.png" width="200px">
+<table>
+  <tr>
+    <td align="center">
+      <img src="./newbingfront/myapp/public/images/react.png" width="200px"><br>
+      <label>React</label>
+    </td>
+    <td align="center">
+      <img src="./newbingfront/myapp/public/images/html-5_5968267.png" width="200px"><br>
+      <label>HTML5</label>
+    </td>
+    <td align="center">
+      <img src="./newbingfront/myapp/public/images/css.png" width="200px"><br>
+      <label>CSS</label>
+    </td>
+    <td align="center">
+      <img src="./newbingfront/myapp/public/images/js_5968292.png" width="200px"><br>
+      <label>JavaScript</label>
+    </td>
+  </tr>
+</table>
 
 ### BACKEND
-<img src="./newbingfront/myapp/public/images/js_5968292.png" width="200px">
-<img src="./newbingfront/myapp/public/images/mysql.png" width="200px">
-<img src="./newbingfront/myapp/public/images/nodejs.256x157.png" width="200px">
-<img src="./newbingfront/myapp/public/images/express.png" width="200px">
+<table>
+  <tr>
+    <td align="center">
+      <img src="./newbingfront/myapp/public/images/js_5968292.png" width="200px"><br>
+      <label>JavaScript</label>
+    </td>
+    <td align="center">
+      <img src="./newbingfront/myapp/public/images/mysql.png" width="200px"><br>
+      <label>MySQL</label>
+    </td>
+    <td align="center">
+      <img src="./newbingfront/myapp/public/images/nodejs.256x157.png" width="200px"><br>
+      <label>Node.js</label>
+    </td>
+    <td align="center">
+      <img src="./newbingfront/myapp/public/images/express.png" width="200px"><br>
+      <label>Express</label>
+    </td>
+  </tr>
+</table>
 
 ### 협업 도구 COMMUNICATION 
-<img src="./newbingfront/myapp/public/images/github_2504911.png" width="200px">
-<img src="./newbingfront/myapp/public/images/Notion.png" width="200px">
+<table>
+  <tr>
+    <td align="center">
+      <img src="./newbingfront/myapp/public/images/github_2504911.png" width="200px"><br>
+      <label>GitHub</label>
+    </td>
+    <td align="center">
+      <img src="./newbingfront/myapp/public/images/Notion.png" width="200px"><br>
+      <label>Notion</label>
+    </td>
+  </tr>
+</table>
 
 
 ## 테이블 구성
