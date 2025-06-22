@@ -1,12 +1,13 @@
 
 
 # Notionary
-
-<img src='./newbingfront/myapp/src/images/notionary-logo.png' width="150px" >
+<div   width="150px" height="150px">
+<img src='./newbingfront/myapp/src/images/notionary-logo.png' style="background-color:white;width:150px;" >
+</div>
 
 
 ## 프로젝트 소개
-notionary 는 개인 워크스페이스를 사용할수 있고 사람들의 질문과 본인의 의견을 낼수 있는 소통 공간으로 개발하게 됬습니다. 여기에서는 우리가 워크스페이스를 정리하면서 카태고리별로 굼금한 글과 질문을 작성할수 있습니다. 글을 작성할때 본인의 워크스페이스를 공유하면서 굼금한 것을 물어볼수도 있습니다.
+Notionary 는 개인 워크스페이스를 사용할수 있고 사람들의 질문과 본인의 의견을 낼수 있는 소통 공간으로 개발하게 됬습니다. 여기에서는 우리가 워크스페이스를 정리하면서 카태고리별로 굼금한 글과 질문을 작성할수 있습니다. 글을 작성할때 본인의 워크스페이스를 공유하면서 굼금한 것을 물어볼수도 있습니다.
 
 # 목차
 - [프로젝트 소개](#프로젝트-소개)
