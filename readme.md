@@ -42,7 +42,14 @@ notionary 는 개인 워크스페이스를 사용할수 있고 사람들의 질�
 
 
 ## 화면 구성 :
-    
+<label>폴더 생성</label>
+<img src="./newbingfront/myapp/public/images/createworkspace-ezgif.com-speed.gif">
+<label>페이지 생성</label>
+<img src="./newbingfront/myapp/public/images/createpage-ezgif.com-speed.gif">
+<label>워크스페이스 기능</label>
+<img src="./newbingfront/myapp/public/images/functionsws.gif">
+<label>삭제 기능</label>
+<img src="./newbingfront/myapp/public/images/deletews-ezgif.com-speed.gif">
 ## 주요 기능: 
 
 ### 담당 : 워크스페이스 페이지
