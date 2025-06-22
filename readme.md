@@ -69,15 +69,69 @@ Notionary는 워크스페이스 공간 제공해주고, 사용자들이 질문�
 
 
 ## API 문서 
-- GET /workspacedataOne    : 전체 워크스페이스 데이터 조회
-- GET /selectspace/:workspacename/:foldername/:filename    : 페이지 내용 조회
+<h3>GET</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/workspacedataOne</td>
+      <td>전체 워크스페이스 데이터 조회</td>
+    </tr>
+    <tr>
+      <td>/selectspace/:workspacename/:foldername/:filename</td>
+      <td>페이지 내용 조회</td>
+    </tr>
+  </tbody>
+</table>
 
-- POST /newFolder   : 워크스페이스 폴더 추가
-- POST /newPage     : 페이지 추가
-- POST /selectspace/:workspacename/:foldername/:filename    : 페이지 내용 추가
+<h3>POST</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/newFolder</td>
+      <td>워크스페이스 폴더 추가</td>
+    </tr>
+    <tr>
+      <td>/newPage</td>
+      <td>페이지 추가</td>
+    </tr>
+    <tr>
+      <td>/selectspace/:workspacename/:foldername/:filename</td>
+      <td>페이지 내용 추가</td>
+    </tr>
+  </tbody>
+</table>
 
-- DELETE /delworkspace     : 워크스페이스 폴더 삭제
-- DELETE /delworkspacepage     : 페이지 삭제
+<h3>DELETE</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/delworkspace</td>
+      <td>워크스페이스 폴더 삭제</td>
+    </tr>
+    <tr>
+      <td>/delworkspacepage</td>
+      <td>페이지 삭제</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## 기술 스택 
@@ -141,8 +195,7 @@ Notionary는 워크스페이스 공간 제공해주고, 사용자들이 질문�
 </table>
 
 
-## 테이블 구성
-<img src="./newbingfront/myapp/src/images/icons/Screenshot 2025-06-22 112552.png" height="500px">
+
 
 ### 프론트 폴더 구조
 ---
