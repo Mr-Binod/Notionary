@@ -45,20 +45,22 @@ Notionary는 워크스페이스 과 커뮤니티 통일해 사용자가 문서 �
 
 
 ## 화면 구성 :
-<label >회원 가입 (블록에 기록 되기때문에 시간 좀 소요됩니다)</label> </br> 
-<img src="./src/images/signup.gif"><br><br>
-<label>NFT 생성</label></br>
-<img src="./src/images/nftUpload.gif"></br></br>
-<label>NFT 판매</label></br>
-<img src="./src/images/sellnft.gif"><br><br>
-<label>NFT 구매</label></br>
-<img src="./src/images/buynft.gif"></br>
+<label>웤크스페이스 폴더 생성</label>
+<img src="./newbingfront/myapp/public/images/createworkspace-ezgif.com-speed.gif"  width='500px'><br><br>
+<label>페이지 생성</label>
+<img src="./newbingfront/myapp/public/images/createpage-ezgif.com-speed.gif" width='500px'><br><br>
+<label>워크스페이스 기능</label>
+<img src="./newbingfront/myapp/public/images/functionsws.gif" width='500px'><br><br>
+<label>삭제 기능</label>
+<img src="./newbingfront/myapp/public/images/deletews-ezgif.com-speed.gif" width='500px'>
 
-    
+
+
 ## 주요 기능
 
 ### 담당 : 워크스페이스 페이지
-- 사용자가 글 작성 사진, 텍스트, 제목, 글머리 기호 목록, 번호 매기기 목록, 할일 목록 등을 선택해서 원하는 글을 작성 가능
+- 사용자가 글 작성, 사진, 텍스트, 제목, 글머리 기호 목록, 번호 매기기 목록, 할일 목록 등을 선택해서 원하는 글을 작성 가능
+- 키보드를 늘릴떄마다 입력한 값이 데이트베이스에 저장.
 - 드래그 (drag) 기능을 사용 가능
 - 메인 페이지에서 저장된 워크스페이스를 공유. 공유 된 워크스페이스는 읽이만 가능
 - 페이지 삭제 기능
