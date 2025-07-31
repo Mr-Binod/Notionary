@@ -1,8 +1,11 @@
 
 
 # Notionary
+<div   width="150px" height="150px">
+<img src='./newbingfront/myapp/src/images/icons/notionarylogo.png' style="background-color:white;width:150px;" >
 
-<img src='./myapp/src/images/notionary.png' width="150px" >
+</div>
+
 
 
 # 목차
