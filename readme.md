@@ -45,13 +45,13 @@ Notionary는 워크스페이스 과 커뮤니티 통일해 사용자가 문서 �
 
 
 ## 화면 구성 :
-<label>웤크스페이스 폴더 생성</label>
+<label>웤크스페이스 폴더 생성</label></br>
 <img src="./newbingfront/myapp/public/images/createworkspace-ezgif.com-speed.gif"  width='500px'><br><br>
-<label>페이지 생성</label>
+<label>페이지 생성</label></br>
 <img src="./newbingfront/myapp/public/images/createpage-ezgif.com-speed.gif" width='500px'><br><br>
-<label>워크스페이스 기능</label>
+<label>워크스페이스 기능</label></br>
 <img src="./newbingfront/myapp/public/images/functionsws.gif" width='500px'><br><br>
-<label>삭제 기능</label>
+<label>삭제 기능</label></br>
 <img src="./newbingfront/myapp/public/images/deletews-ezgif.com-speed.gif" width='500px'>
 
 
